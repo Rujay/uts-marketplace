@@ -1,0 +1,62 @@
+[
+    {
+        "name": "iPhone 11 Pro Max",
+        "price": "109.55",
+        "description": "Just a crappy description of an iphone dumb dumb.",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id": "products/iphoneshdfasasd",
+            "url": "http://drive.google.com/uts/iphone"
+        }],
+        "category": "Mobile Phones",
+        "seller": "Rujay",
+        "stock": 20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "iPhone 6",
+        "price": "109.55",
+        "description": "Just a crappy description of an iphone dumb dumb.",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id": "products/iphoffsdsdbfvhhcasasd",
+            "url": "http://drive.google.com/uts/iphone"
+        }],
+        "category": "Mobile Phones",
+        "seller": "Rujay",
+        "stock": 20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "iPhone 5",
+        "price": "109.55",
+        "description": "Just a crappy description of an iphone dumb dumb.",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id": "products/iphfsfvhhcasasd",
+            "url": "http://drive.google.com/uts/iphone"
+        }],
+        "category": "Mobile Phones",
+        "seller": "Rujay",
+        "stock": 20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "iPhone X Pro Max",
+        "price": "101.55",
+        "description": "Just a crappy description of an iphone dumb dumb.",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id": "products/iphoneshdbfffasd",
+            "url": "http://drive.google.com/uts/iphone"
+        }],
+        "category": "Mobile Phones",
+        "seller": "Rujay",
+        "stock": 20,
+        "numOfReviews": 20,
+        "reviews": []
+    }
+]
