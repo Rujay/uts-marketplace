@@ -1,2 +1,2 @@
 # uts marketplace
- ecommerce website for used tech
+ E-commerce website for used tech products
