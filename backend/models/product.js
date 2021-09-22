@@ -46,7 +46,7 @@ const productSchema = new mongoose.Schema({
                 'Accessories',
                 'Consoles/Video Games'
             ],
-            message: 'Please select correct category for product.'
+            message: 'Please select a correct category for product.'
         }
     },
     seller: {
