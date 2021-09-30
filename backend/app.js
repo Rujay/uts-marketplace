@@ -8,10 +8,10 @@ const errorMiddleware = require('./middlewares/error')
 
 app.use(express.json());
 app.use(cookieParser())
+
 //imported routes
 const products = require("./routes/product")
 const auth = require("./routes/auth")
-
 
 
 app.use('/api/v1', products);
